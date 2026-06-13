@@ -36,7 +36,7 @@ Wykres bąbelkowy nakłada punkty na osie odpowiadające długości (oś X) i sz
 <img width="633" height="477" alt="bubl" src="https://github.com/user-attachments/assets/c220a419-d164-4d35-bf34-8cd9359d8610" />
 
 ## Wnioski z analizy
-* Najwięcej rozbłysków (33) zaobserwowano w 20214 roku.
+* Najwięcej rozbłysków (33) zaobserwowano w 2014 roku.
 * Większość meteorów spala się w Stratosferze (warstwie atmosfery ziemskiej) na wysokościach 20km - 40km. Krzywa rozkładu normalnego nie odzwierciedla faktycznego kształtu histogramu. Wykres
 posiada dwa szczyty - na wysokościach 22km oraz 38km. Kształt wykresu nie jest dopasowanydo krzywej w jej centrum, gdzie oczekuje największej ilości obserwacji - w rzeczywistości naw ysokości 32 km zaobserwowano tylko jeden rozbłysk.
 * Na wykresie punktowym zależności prędkości od energii kinetycznej możemy zaobserwować brak 
