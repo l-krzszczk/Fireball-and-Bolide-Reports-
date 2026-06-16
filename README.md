@@ -10,7 +10,7 @@ i opiera się na oficjalnych danych publikowanych przez NASA CNEOS.
 Procedura **freq** tworzy tabelę krzyżową, przedstawiającą liczbę rozbłysków z podziałem na miesiące i lata.
 <img width="575" height="267" alt="freqdata" src="https://github.com/user-attachments/assets/ee3cb4b9-678c-415c-a217-252d646cec72" />
 
-Wizualizacja powyższej tabeli w formie wykresu słupskowego.
+Wizualizacja powyższej tabeli w formie wykresu słupkowego.
 <img width="637" height="476" alt="czas" src="https://github.com/user-attachments/assets/9e66ef16-c520-423d-a5d2-f83dda2c9e7a" />
 
 **2. Procentowy rozkład wysokości rozbłysków**
